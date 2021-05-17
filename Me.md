@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aagauda
 - 👀 I’m interested in backend working ,learning new languages,frameworks and new stuffs.
-- 🌱 I’m currently learning c,html,css,little bit of javascript 
+- 🌱 I’m currently learning c,c++,html,css,little bit of javascript 
 - 📫 How to reach me :-
 you can contact me on instagram https://www.instagram.com/aabhashgauda/
 
